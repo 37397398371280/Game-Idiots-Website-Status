@@ -1,5 +1,25 @@
 [
   {
+    "name": "Game Idiots Systems",
+    "url": "https://game-idiots.github.io/website/Game-Idiots-Systems.html",
+    "icon": "https://icons.duckduckgo.com/ip3/game-idiots.github.io.ico",
+    "slug": "game-idiots-systems",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 77,
+    "timeDay": 77,
+    "timeWeek": 77,
+    "timeMonth": 77,
+    "timeYear": 77,
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
+  },
+  {
     "name": "Home Page",
     "url": "https://game-idiots.github.io/website/",
     "icon": "https://icons.duckduckgo.com/ip3/game-idiots.github.io.ico",
