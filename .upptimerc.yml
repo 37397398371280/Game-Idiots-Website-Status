@@ -33,11 +33,6 @@ status-website:
   name: Website Status
   introTitle: "**Game Idiots** Has lot of projects"
   introMessage: Welome to the Game Idiots Website Status Page
-  navbar:
-   - title: Status
-      href: /
-   - title: Website
-      href: /Website.html
       
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
