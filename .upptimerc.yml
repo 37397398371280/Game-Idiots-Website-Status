@@ -27,6 +27,8 @@ sites:
     url: https://game-idiots.github.io/website/Future/Self-Destruct-Future.html
   - name: Game Idiots Systems
     url: https://game-idiots.github.io/website/Game-Idiots-Systems.html
+  - name: About Page
+    url: https://game-idiots.github.io/website/About.html
     
 status-website:
   baseUrl: /Website-Status
