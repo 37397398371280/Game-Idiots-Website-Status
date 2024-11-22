@@ -35,7 +35,7 @@ status-website:
   introMessage: Welome to the Game Idiots Website Status Page
   navbar:
     - title: Status
-      href: /
+      href: /Website-Status
     - title: Website
       href: https://game-idiots.github.io/website/
       
