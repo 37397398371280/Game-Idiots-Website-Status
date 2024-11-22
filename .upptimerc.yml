@@ -47,7 +47,7 @@ status-website:
   baseUrl: /Website-Status
   logoUrl: https://game-idiots.github.io/website/Assets/icon.svg
   name: Website Status
-  introTitle: "**Game Idiots** Status"
+  introTitle: "**Game Idiots** Website Status"
   introMessage: Welome to the Game Idiots Website Status Page
   navbar:
     - title: Status
