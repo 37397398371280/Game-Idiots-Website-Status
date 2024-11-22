@@ -29,7 +29,7 @@ sites:
     
 status-website:
   baseUrl: /Website-Status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://game-idiots.github.io/website/Assets/icon.svg
   name: Website Status
   introTitle: "**Game Idiots** Has lot of projects"
   introMessage: Welome to the Game Idiots Website Status Page
