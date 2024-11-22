@@ -13,6 +13,8 @@ status-website:
   introTitle: "**Game Idiots** Has lot of projects"
   introMessage: Welome to the Game Idiots Website Status Page
   navbar:
+   - title: Status
+      href: /
    - title: Website
       href: https://game-idiots.github.io/website/
       
