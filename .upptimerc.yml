@@ -3,8 +3,29 @@ owner: 37397398371280
 repo: Website-Status
 
 sites:
-  - name: Game Idiots Website
+  - name: Home Page
     url: https://game-idiots.github.io/website/
+  - name: Soundboard Page
+    url: https://game-idiots.github.io/website/sb.html
+  - name: Thermal
+    url: https://game-idiots.github.io/website/thermal.html
+  - name: Code Playground
+    url: https://game-idiots.github.io/website/Code-Playground.html
+  - name: Today's Security Code
+    url: https://game-idiots.github.io/website/Todays-Security-Code.html
+  - name: Soundboard Plans
+    url: https://game-idiots.github.io/website/Soundboard-Plans.html
+  - name: Abandoned Server
+    url: https://game-idiots.github.io/website/Abandoned-Server.html
+  - name: Leaks Page
+    url: https://game-idiots.github.io/website/Leaks/Leaks.html
+  - name: Self Destruct
+    url: https://game-idiots.github.io/website/Self-Destruct.html
+  - name: Self Destruct (Past)
+    url: https://game-idiots.github.io/website/Past/Self-Destruct-Past.html
+  - name: Self Destruct (Future)
+    url: https://game-idiots.github.io/website/Future/Self-Destruct-Future.html
+
     
 status-website:
   baseUrl: /Website-Status
@@ -16,7 +37,7 @@ status-website:
    - title: Status
       href: /
    - title: Website
-      href: https://game-idiots.github.io/website/
+      href: /Website.html
       
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
