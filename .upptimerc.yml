@@ -3,8 +3,6 @@ owner: 37397398371280
 repo: Website-Status
 
 sites:
-  - name: Game Idiots Systems
-    url: https://game-idiots.github.io/website/Game-Idiots-Systems.html
   - name: Home Page
     url: https://game-idiots.github.io/website/
   - name: Soundboard Page
@@ -27,7 +25,8 @@ sites:
     url: https://game-idiots.github.io/website/Past/Self-Destruct-Past.html
   - name: Self Destruct (Future)
     url: https://game-idiots.github.io/website/Future/Self-Destruct-Future.html
-
+  - name: Game Idiots Systems
+    url: https://game-idiots.github.io/website/Game-Idiots-Systems.html
     
 status-website:
   baseUrl: /Website-Status
