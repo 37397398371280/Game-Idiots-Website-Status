@@ -203,18 +203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/game-idiots.github.io.ico",
     "slug": "game-idiots-systems",
     "status": "up",
-    "uptime": "0.80%",
-    "uptimeDay": "0.80%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "0.80%",
-    "uptimeYear": "0.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 47,
     "timeDay": 47,
     "timeWeek": 47,
     "timeMonth": 47,
     "timeYear": 47,
-    "dailyMinutesDown": {
-      "2024-11-22": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
