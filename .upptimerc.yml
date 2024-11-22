@@ -5,30 +5,43 @@ repo: Website-Status
 sites:
   - name: Home Page
     url: https://game-idiots.github.io/website/
+    maxResponseTime: 5000
   - name: Soundboard Page
     url: https://game-idiots.github.io/website/sb.html
+    maxResponseTime: 5000
   - name: Thermal
     url: https://game-idiots.github.io/website/thermal.html
+    maxResponseTime: 5000
   - name: Code Playground
     url: https://game-idiots.github.io/website/Code-Playground.html
+    maxResponseTime: 5000
   - name: Today's Security Code
     url: https://game-idiots.github.io/website/Todays-Security-Code.html
+    maxResponseTime: 5000
   - name: Soundboard Plans
     url: https://game-idiots.github.io/website/Soundboard-Plans.html
+    maxResponseTime: 5000
   - name: Abandoned Server
     url: https://game-idiots.github.io/website/Abandoned-Server.html
+    maxResponseTime: 5000
   - name: Leaks Page
     url: https://game-idiots.github.io/website/Leaks/Leaks.html
+    maxResponseTime: 5000
   - name: Self Destruct
     url: https://game-idiots.github.io/website/Self-Destruct.html
+    maxResponseTime: 5000
   - name: Self Destruct (Past)
     url: https://game-idiots.github.io/website/Past/Self-Destruct-Past.html
+    maxResponseTime: 5000
   - name: Self Destruct (Future)
     url: https://game-idiots.github.io/website/Future/Self-Destruct-Future.html
+    maxResponseTime: 5000
   - name: Game Idiots Systems
     url: https://game-idiots.github.io/website/Game-Idiots-Systems.html
+    maxResponseTime: 5000
   - name: About Page
     url: https://game-idiots.github.io/website/About.html
+    maxResponseTime: 5000
     
 status-website:
   baseUrl: /Website-Status
