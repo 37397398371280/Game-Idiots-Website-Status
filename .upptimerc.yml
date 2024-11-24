@@ -1,6 +1,6 @@
 # Change these first
 owner: 37397398371280
-repo: Website-Status
+repo: Game-Idiots-Website-Status
 
 sites:
   - name: Home Page
@@ -59,14 +59,14 @@ sites:
     maxResponseTime: 1000
     
 status-website:
-  baseUrl: /Website-Status
+  baseUrl: /Game-Idiots-Website-Status
   logoUrl: https://game-idiots.github.io/website/Assets/icon.svg
   name: Website Status
   introTitle: "**Game Idiots** Website Status"
   introMessage: Welome to the Game Idiots Website Status Page
   navbar:
     - title: Status
-      href: /Website-Status
+      href: /Game-Idiots-Website-Status
     - title: Website
       href: https://game-idiots.github.io/website/
       
