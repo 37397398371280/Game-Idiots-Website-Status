@@ -48,6 +48,9 @@ sites:
   - name: Colten Sus Website Domain For Game Idiots (GI | gi.coltensus.com)
     url: gi.coltensus.com
     maxResponseTime: 1000
+  - name: Website Status Pages
+    url: status.coltensus.com
+    maxResponseTime: 1000
     
     
 status-website:
