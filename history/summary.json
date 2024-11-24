@@ -275,37 +275,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website-status-pages-web-forward",
     "status": "down",
-    "uptime": "0.96%",
-    "uptimeDay": "0.96%",
-    "uptimeWeek": "0.96%",
-    "uptimeMonth": "0.96%",
-    "uptimeYear": "0.96%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-24": 0
+      "2024-11-24": 1
     }
   },
   {
     "name": "Website Status Pages (Main Link)",
-    "url": "https://37397398371280.github.io/Game-Idiots-Website-Status/",
+    "url": "https://37397398371280.github.io/Website-Status-Pages/",
     "icon": "https://icons.duckduckgo.com/ip3/37397398371280.github.io.ico",
     "slug": "website-status-pages-main-link",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 51,
-    "timeDay": 51,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "88.93%",
+    "uptimeDay": "88.93%",
+    "uptimeWeek": "88.93%",
+    "uptimeMonth": "88.93%",
+    "uptimeYear": "88.93%",
+    "time": 53,
+    "timeDay": 53,
+    "timeWeek": 53,
+    "timeMonth": 53,
+    "timeYear": 53,
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "Colten Sus Website Status",
@@ -313,18 +315,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/37397398371280.github.io.ico",
     "slug": "colten-sus-website-status",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 70,
     "timeDay": 70,
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2024-11-24": 40
+      "2024-11-24": 41
     }
   },
   {
