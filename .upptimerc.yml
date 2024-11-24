@@ -42,6 +42,13 @@ sites:
   - name: About Page
     url: https://game-idiots.github.io/website/About.html
     maxResponseTime: 1000
+  - name: Colten Sus Website Domain For Game Idiots (Game Idiots | gameidiots.coltensus.com)
+    url: gameidiots.coltensus.com
+    maxResponseTime: 1000
+  - name: Colten Sus Website Domain For Game Idiots (GI | gi.coltensus.com)
+    url: gi.coltensus.com
+    maxResponseTime: 1000
+    
     
 status-website:
   baseUrl: /Website-Status
